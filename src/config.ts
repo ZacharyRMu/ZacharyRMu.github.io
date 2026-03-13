@@ -25,6 +25,13 @@ export const siteConfig = {
       link: "https://github.com/ZacharyRMu/Alarm-Clock",
       skills: ["KiCad","PCB Assembly", "PCB Testing","Oscilloscope","Logic Analyzer","C/C++","Git","Solidworks","3D Printing (FDM)"]
     },
+        {
+      name: "AssemblyLedger",
+      description:
+        "A desktop application for generating, tracking, and managing category-based part numbers and assemblies.",
+      link: "https://github.com/ZacharyRMu/AssemblyLedger",
+      skills: ["Dart Programming Language", "Flutter SDK", "Git","Bash","Linux","DevOps","UI/UX","Data Management", "Full-stack development"],
+    },
     {
       name: "Simple DirectMedia Layer Library Pong",
       description:
