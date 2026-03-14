@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "I'm an engineer with a deep respect for how things actually work. My background spans embedded systems, RF and signal processing and system integation, with a strong hands-on focus: Designing PCB's, validating hardware, debugging real signals, and building systems that survive outside of simulations. I enjoy working at the boundaries between theory and reality, where datasheets meet oscilloscopes. At the same time, I care deeply about clarity, communication, and design. I believe good engineering should be understandable, documented, and thoughtfully presented. This shows up in how I structure projects, write documentation, design interfaces, and even in how I approach visual layout and storytelling. Engineering isn't just about solving problems, it's about making solutions legible to others.",
-  skills: ["Electrical Design and Analysis", "C/C++", "Python", "Multisim", "Intrumentation", "Docker", "Microsoft Office", "Studio 5000", "Siemens TIA Portal", "VNA Operation", "Soidworks", "AutoCAD Electrical", "KiCad", "Adobe Creative Cloud"],
+  skills: ["Electrical Design and Analysis", "C/C++", "Python", "Multisim", "Intrumentation", "Docker", "Microsoft Office", "Studio 5000", "Siemens TIA Portal", "VNA Operation", "Solidworks", "AutoCAD Electrical", "KiCad", "Adobe Creative Cloud","SAP","PTC Creo","3D Printing"],
   projects: [
     {
       name: "MATS Antenna Rotator",
