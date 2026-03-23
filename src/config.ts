@@ -33,11 +33,11 @@ export const siteConfig = {
       skills: ["Dart Programming Language", "Flutter SDK", "Git","Bash","Linux","DevOps","UI/UX","Data Management", "Full-stack development"],
     },
     {
-      name: "Simple DirectMedia Layer Library Pong",
+      name: "ESP32 Bluetooth Speaker",
       description:
-        "Designed a Pong game using Simple Direct Media Layer, including an AI opponent. Compiled for Windows, Linux, and MacOS.",
-      link: "to be added later",
-      skills: ["C Programming", "Simple Direct Media Layer", "Git","Bash","Linux"],
+        "Designing an ESP32 based Bluetooth speaker, including PCB revision using the MAX98357A amplifier board, and 3D printed enclosure",
+      link: "https://github.com/ZacharyRMu/ESP32-Bluetooth-Speaker",
+      skills: ["C/C++ Programming", "KiCad", "Git","Bash","PCB Design","System Design","Embedded Systems"],
     },
   ],
   experience: [
